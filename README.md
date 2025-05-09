@@ -1,5 +1,7 @@
 # Data-Analysis-Dashboard
 I have built an interactive dashboard for this project
+![Overview](https://github.com/user-attachments/assets/eb06296c-0fb4-43a4-8a30-ba0ed9402d59)
+
 
 ## Questions to Explore: 
 -- How does customer age and gender influence their purchasing behavior? 
