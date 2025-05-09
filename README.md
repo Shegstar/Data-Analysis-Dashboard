@@ -12,4 +12,4 @@ I have built an interactive dashboard for this project
 -- Are there distinct purchasing behaviors based on the number of items bought per transaction? 
 -- What insights can be gleaned from the distribution of product prices within each category?
 
---<a href="https://1drv.ms/u/s!Akv2EM75R8mfeOzS6MoqapAUoqo?e=LRg0P3">Retail Sales And Customers Demographics Dashboard</a>
+--<a href="[https://1drv.ms/u/s!Akv2EM75R8mfeOzS6MoqapAUoqo?e=LRg0P3](https://github.com/Shegstar/Data-Analysis-Dashboard/blob/main/retail_sales_dataset%20new.pbix)">Retail Sales And Customers Demographics Dashboard</a>
