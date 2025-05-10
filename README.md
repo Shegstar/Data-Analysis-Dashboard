@@ -6,8 +6,10 @@ I have built an interactive dashboard for this project
 
 ## Questions to Explore: 
 
--- How does customer age and gender influence their purchasing behavior? 
+-- How does customer age and gender influence their purchasing behavior?
+
 -- Are there discernible patterns in sales across different time periods?
+
 -- Which product categories hold the highest appeal among customers? 
 -- What are the relationships between age, spending, and product preferences? 
 -- How do customers adapt their shopping habits during seasonal trends? 
