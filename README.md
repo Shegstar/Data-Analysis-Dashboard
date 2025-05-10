@@ -10,7 +10,7 @@ I have built an interactive dashboard for this project
 
 -- Are there discernible patterns in sales across different time periods?
 
--- Which product categories hold the highest appeal among customers? 
+-- Which product categories hold the highest appeal among customers?
 -- What are the relationships between age, spending, and product preferences? 
 -- How do customers adapt their shopping habits during seasonal trends? 
 -- Are there distinct purchasing behaviors based on the number of items bought per transaction? 
